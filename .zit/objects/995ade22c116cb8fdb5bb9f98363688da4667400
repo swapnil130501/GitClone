@@ -1,0 +1,15 @@
+{
+  "timeStamp": "2024-09-21T11:12:29.848Z",
+  "message": "second commit",
+  "files": [
+    {
+      "path": "sample.txt",
+      "hash": "bcd55b282e4e8aa5c903241ee22fa4a199eee17a"
+    },
+    {
+      "path": "sample2.txt",
+      "hash": "095369a80bc97d2fb88cf7f7062d22ca78470d82"
+    }
+  ],
+  "parent": "0d9c85a31b57f1cc0cb5752e17abdc8bdd9652b3"
+}
